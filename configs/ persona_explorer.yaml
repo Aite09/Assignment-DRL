@@ -1,0 +1,5 @@
+# Explorer persona configuration
+reward_click: 1.0
+reward_scroll: 0.5
+reward_idle: -0.1
+exploration_bias: 0.7

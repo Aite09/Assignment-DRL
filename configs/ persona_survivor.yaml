@@ -1,0 +1,5 @@
+# Survivor persona configuration
+reward_click: -0.2
+reward_scroll: 0.1
+reward_idle: -0.5
+exploration_bias: 0.2

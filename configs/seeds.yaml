@@ -1,0 +1,6 @@
+# Reproducibility seeds
+default_seed: 7
+seeds:
+  - 7
+  - 21
+  - 42
