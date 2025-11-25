@@ -149,14 +149,5 @@ This fulfills reproducibility requirements ￼.
 
 10. Summary
 
-This repository satisfies all required components listed in the assignment:
-	•	Two environments
-	•	Two algorithms (PPO & A2C)
-	•	Personas via reward shaping
-	•	Trained agents & evaluation
-	•	Metrics exported + plotted
-	•	Config-driven architecture
-	•	Clear documentation
-	•	Reproducible experiments
-	•	GitHub public repository submission
+During the early stages of the project, a simplified Flappy Bird environment was briefly used purely for debugging and validating the reinforcement learning pipeline (reward shaping, action loop, observation processing, and model execution). This environment is lightweight and helps verify that PPO and A2C were running correctly before integrating the full WebFlow software-testing environment. However, the final results, analysis, training, evaluation, and all deliverables in this assignment are based exclusively on the WebFlow environment, which aligns directly with the assignment requirement of testing a software system with complex user flows. The Flappy Bird environment was not used for final submission — it served only as a temporary internal test to ensure the DRL pipeline worked as expected.
 
