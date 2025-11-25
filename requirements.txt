@@ -1,0 +1,17 @@
+# requirements.txt
+stable-baselines3==2.2.1
+gymnasium==0.29.1
+
+# Data manipulation and visualization
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.10.0
+seaborn==0.13.2
+
+pyyaml==6.0.1
+
+jupyter==1.0.0
+ipykernel==6.29.0
+
+pillow==10.2.0  
+tensorboard==2.15.0  
