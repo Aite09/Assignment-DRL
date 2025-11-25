@@ -2,7 +2,7 @@ Mohammed Aitezazuddin Ahmed
 
 100829388
 
-⸻
+
 1. Overview
 
 This project automates the testing of two applications using trained Deep Reinforcement Learning agents:
@@ -14,7 +14,7 @@ The goal is to detect issues, measure performance, observe different persona beh
 According to the assignment requirements, DRL agents (not hand-coded bots) must be used to perform testing, evaluate system behavior, and collect structured metrics—this project meets all these goals ￼.
 
 
-⸻
+
 2. Repository Structure
 
 The repo follows the exact deliverable structure required in the assignment ￼:
@@ -25,17 +25,17 @@ The repo follows the exact deliverable structure required in the assignment ￼:
 
 3. Setup Instructions
 
-1. Create virtual environment (recommended Python 3.10)
+-Create virtual environment (recommended Python 3.10)
 
 python3.10 -m venv venv
 source venv/bin/activate
 
-2. Install dependencies
+-Install dependencies
 
 pip install -r requirements.txt
 
 
-⸻
+
 
 4. How to Train Models
 
@@ -60,7 +60,7 @@ Models are automatically saved under:
 models/
 
 
-⸻
+
 
 5. How to Evaluate Models
 
@@ -75,7 +75,7 @@ This will output:
 logs/web_ppo_explorer_eval.csv
 
 
-⸻
+
 
 6. Analysis Notebook
 
@@ -92,7 +92,7 @@ It includes:
 
 These plots satisfy assignment deliverable requirements for Matplotlib charts and comparisons ￼.
 
-⸻
+
 
 7. Environments
 
@@ -113,7 +113,7 @@ Flappy Bird Environment
 
 Follows assignment expectation to clearly document actions/observations/rewards ￼.
 
-⸻
+
 
 8. Experiments Completed
 
@@ -130,7 +130,7 @@ Metrics collected:
 	•	Gaps passed (flappy)
 	•	Coverage
 
-⸻
+
 
 9. Reproducibility
 
