@@ -12,46 +12,15 @@ The goal is to detect issues, measure performance, observe different persona beh
 
 According to the assignment requirements, DRL agents (not hand-coded bots) must be used to perform testing, evaluate system behavior, and collect structured metrics—this project meets all these goals ￼.
 
+
 ⸻
 2. Repository Structure
 
 The repo follows the exact deliverable structure required in the assignment ￼:
 
 The repo follows the exact deliverable structure required in the assignment ￼:
-Assignment-DRL/
-│
-├── configs/
-│   ├── algo_ppo.yaml
-│   ├── algo_a2c.yaml
-│   ├── persona_explorer.yaml
-│   ├── persona_survivor.yaml
-│   └── seeds.yaml
-│
-├── envs/
-│   ├── flappy_game/
-│   │   ├── flappy_env.py
-│   │   └── rewards.py
-│   └── web_flow/
-│       ├── web_env.py
-│       └── rewards.py
-│
-├── src/
-│   ├── train.py
-│   ├── evaluate.py
-│   └── utils.py
-│
-├── models/
-│   └── web_ppo_explorer_seed7.zip
-│
-├── logs/
-│   └── web_ppo_explorer_eval.csv
-│
-├── notebooks/
-│   └── analysis_web.ipynb
-│
-└── requirements.txt
+<img width="463" height="548" alt="Screenshot 2025-11-24 at 9 47 47 PM" src="https://github.com/user-attachments/assets/2bae8024-9900-4d44-8538-8cc6ccd3a070" />
 
-⸻
 
 3. Setup Instructions
 
